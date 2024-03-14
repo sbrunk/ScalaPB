@@ -54,6 +54,7 @@ enum EnumWithReservedKeywords {
   while = 48;
   with = 49;
   yield = 50;
+  using = 51;
   other = 100;
 }
 

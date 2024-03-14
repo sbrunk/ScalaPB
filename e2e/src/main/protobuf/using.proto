@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package com.thesamet.proto.e2e;
+
+message RecommendPoints {
+  optional string using = 1;
+}
